@@ -1,0 +1,17 @@
+pyserial
+serial
+cmake
+dlib
+face_recognition
+pillow
+opencv-python
+numpy
+PyQt5
+PyQtChart
+PyQtWebEngine
+folium
+fpdf
+imutils
+geopy
+psycopg2-binary
+pandas
