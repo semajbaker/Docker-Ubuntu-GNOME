@@ -1,2 +1,2 @@
-# Docker-Ubuntu-GNOME
-Full ubuntu desktop with GUI running on docker
+# Ubuntu With GUI running on docker
+Full Ubuntu desktop with GUI display that runs on windows remote desktop
